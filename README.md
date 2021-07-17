@@ -8,7 +8,7 @@ I was tasked to create interesting data visualizations from a text file. I used 
 
 
 # Summary of Skills
-I used the windows environment with the Power BI program to complete this project.
+I used the windows environment with an excel file to be used with the Power BI program to complete this project.
 
 
 # Preview
